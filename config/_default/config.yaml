@@ -1,0 +1,8 @@
+baseURL: "http://example.org/"
+languageCode: en-au
+title: Bootstrap Navbar
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
