@@ -1,3 +1,3 @@
-# Tutorial - Getting Started with hugo and bootstrap
+# Tutorial - Bootstrap 5 Navbar with HUGO - Introduction
 
-Watch the video at <https://youtu.be/T671OzJisFs>
+Watch the video at <https://youtu.be/Di11hJUFd-E>
