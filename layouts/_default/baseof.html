@@ -1,12 +1,21 @@
 <!doctype html>
 <html lang="en">
-  <head>
-    {{ partial "head" . }}
-  </head>
-  <body>
+
+<head>
+  {{ partial "head" . }}
+</head>
+
+<body>
+  <header>
     {{/* partial "header" . */}}
     {{ partial "navbar" . }}
+  </header>
+  <main>
     {{ block "main" . }}{{ end }}
+  </main>
+  <footer>
     {{ partial "footer" . }}
-  </body>
+  </footer>
+</body>
+
 </html>
